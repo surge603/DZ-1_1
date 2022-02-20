@@ -1,0 +1,15 @@
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/bin/Debug/net6.0/tsk4-max_from_3_nums
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/bin/Debug/net6.0/tsk4-max_from_3_nums.deps.json
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/bin/Debug/net6.0/tsk4-max_from_3_nums.runtimeconfig.json
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/bin/Debug/net6.0/tsk4-max_from_3_nums.dll
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/bin/Debug/net6.0/ref/tsk4-max_from_3_nums.dll
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/bin/Debug/net6.0/tsk4-max_from_3_nums.pdb
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/tsk4-max_from_3_nums.csproj.AssemblyReference.cache
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/tsk4-max_from_3_nums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/tsk4-max_from_3_nums.AssemblyInfoInputs.cache
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/tsk4-max_from_3_nums.AssemblyInfo.cs
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/tsk4-max_from_3_nums.csproj.CoreCompileInputs.cache
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/tsk4-max_from_3_nums.dll
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/ref/tsk4-max_from_3_nums.dll
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/tsk4-max_from_3_nums.pdb
+/Users/ArtemBabin1/Documents/GB/DZ-1_1/tsk4-max_from_3_nums/obj/Debug/net6.0/tsk4-max_from_3_nums.genruntimeconfig.cache
